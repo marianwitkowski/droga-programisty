@@ -4,7 +4,7 @@
 
 Rok 2024 to trudny czas dla juniorów. Niewiele ofert pracy, zwolnienia i wszędobylskie AI.
 
-Ale moim zdaniem, nadal wysokie kompetencje i dobra znajomość sztuki programowania okraszona zmysłem biznesowym i chęcią współpracy z innymi niż IT interesariuszami projektów informatycznych, zaowocuje dużą satysfacją i godnymi zarobkami.
+Ale moim zdaniem, nadal wysokie kompetencje i dobra znajomość sztuki programowania okraszona zmysłem biznesowym i chęcią współpracy z innymi niż IT interesariuszami projektów informatycznych, zaowocuje dużą satysfakcją i godnymi zarobkami.
 
 Może nie w 6 miesięcy, ale 2-3 dni lata wytężonej pracy (niestety również ślęczenia po nocach) na pewno zbliży Cię do celu. Oczywiście wszystko to jest uzależnione wyłącznie od Ciebie.
 
