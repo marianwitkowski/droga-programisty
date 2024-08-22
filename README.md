@@ -10,7 +10,7 @@ Może nie w 6 miesięcy, ale 2-3 dni lata wytężonej pracy (niestety również 
 
 ### A dla kogo ta publikacja?
 
-Może zamiast wyrzucać 8, 10, 16 tysięcy na bootcamp, gdzie często "wykładowcy" to absolwenci poprzednich edycji takich bootcampów - tak, znam takie przypadki - poczytaj o tym na czym polega programowania i nauka programowania. 
+Może zamiast wyrzucać 8, 10, 16 tysięcy złotych na bootcamp, gdzie często "wykładowcy" to absolwenci poprzednich edycji takich bootcampów - tak, znam takie przypadki - poczytaj o tym na czym polega programowania i nauka programowania. 
 Jakie są ścieżki rozwoju, narzędzia, technologie. Oswój się z techniczną nomenklaturą czy na czym polega prowadzenie projektów. Poznaj podstawowe algorytmy czy pojęcie złożoności obliczeniowej. 
 
 ### Autor
